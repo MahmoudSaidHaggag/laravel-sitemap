@@ -1,5 +1,5 @@
 {
-    "name": "bringyourownideas/laravel-sitemap",
+    "name": "haggag/laravel-sitemap",
     "description": "A simple website crawler & sitemap generator without a headless browser for Laravel 5.8+",
     "keywords": [
         "laravel",
@@ -23,8 +23,8 @@
     ],
     "require": {
         "php": "^7.3|^8.0",
-        "laravel/framework": "^6.20.12||^7.30.3||^8.4||^9.2",
-        "guzzlehttp/guzzle": "^7.2",
+        "laravel/framework": "^6.20.12||^7.30.3||^8.4||^9.2||^10.0||^11.0",
+        "guzzlehttp/guzzle": "^7.2||^8.2||^9.0||^10.0",
         "vdb/php-spider": "^v0.6.3",
         "nesbot/carbon": "^2.41",
         "spatie/robots-txt": "^1.0||^2.0"
